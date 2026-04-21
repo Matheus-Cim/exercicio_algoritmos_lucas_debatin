@@ -1,12 +1,12 @@
 # Exercício Algoritmos
 
-## 📚 Disciplina
+## Disciplina
 Introdução à Ciência da Computação - Univali
 
-## 👨‍🏫 Professor
+## Professor
 Lucas Debatin
 
-## 👥 Integrantes
+## Integrantes
 - Eduardo Castro
 - Lucas Leonel Haag
 - Matheus Pedro Cim
@@ -14,7 +14,7 @@ Lucas Debatin
 - Mateus Karpinski Malaquias
 - Sidnei Felipe Bitencourt da Rosa
 
-## 📌 Descrição
+## Descrição
 Programa em C++ que permite cadastrar até 5 alunos, calcular a média das três notas e exibir a situação (Aprovado/Reprovado), além de identificar o aluno com maior média.
 
 ## ⚙️ Funcionalidades
