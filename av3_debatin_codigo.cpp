@@ -1,16 +1,6 @@
-// Trabalho
-// Disciplina: Introdução à Ciência da Computação - Univali
+// Trabalho de Algoritmos
 // Professor: Lucas Debatin
-
-/*
-Integrantes do grupo: 
-* Eduardo Castro;
-* Lucas Leonel Haag;
-* Matheus Pedro Cim;
-* Matheus Jean Soares;
-* Mateus Karpinski Malaquias;
-*Sidnei Felipe Bitencourt da Rosa.
-*/
+// Disciplina: Introdução à Ciência da Computação - Univali
 
 #include <iostream>
 #include <string>
